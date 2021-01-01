@@ -5,6 +5,7 @@ Installation:
 3 - Type these commands in command prompt:
 
 pip install requests
+
 pip install colorama
 
 4 - Make sure to change the webhook! (Line 37)
